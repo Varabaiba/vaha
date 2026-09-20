@@ -1,0 +1,10 @@
+[project]
+name = "vaha"
+version = "0.1.0"
+description = "Varabaiba's Handy Apps"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "markitdown[all]>=0.1.5",
+    "tkinterdnd2>=0.6.3",
+]
